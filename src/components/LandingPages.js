@@ -14,7 +14,7 @@ import minict from '../components/images/parterner/minict.a9d9d3eb77ad0479f7c7.p
 import giz from './images/parterner/GIZ.525d1f85f4b5d2aad826.png'
 import digicenter from './images/parterner/digicenter.be983b7aa5a854cbc2c1.png'
 import cok from './images/parterner/cok.7d04350cfa6e331624cb.png'
-import { FaTwitter ,FaYoutube ,FaFlickr ,FaCheckCircle} from "react-icons/fa";
+import { FaCheckCircle} from "react-icons/fa";
 
 const LandingPages = () => {
 
